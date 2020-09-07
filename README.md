@@ -5,7 +5,7 @@ I am a student Data Scientist and an aspiring cloud engineer.
 
 *:nerd_face: I am currently learning machine learning algorithms
 
-*:question: Ask me about data analysis and statistics
+*:question: Ask me about data analysis, statistics, Machine learning, python, SQL and R
 
 :mailbox_with_mail: How to reach me ngolua.kinya@gmail.com
 
