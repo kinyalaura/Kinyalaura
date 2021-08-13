@@ -1,9 +1,9 @@
 # Hi, I am Kinya
-I am a student Data Scientist and an aspiring cloud engineer. 
+I am a Data Scientist and a Data Engineer. 
 
-*:briefcase: I am currently working on building my datascience portfolio
+*:briefcase: I am currently working on datascience projects
 
-*:nerd_face: I am currently learning machine learning algorithms
+*:nerd_face: I am currently using machine learning algorithms
 
 *:question: Ask me about Data Analysis, Statistics, Machine learning, Python, PyTorch, SQL and R.
 
